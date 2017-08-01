@@ -1,3 +1,11 @@
+#messagess{
+    margin: 10px;
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    border-width: 1px;
+}
+
 body {
     margin: 0;
 }
